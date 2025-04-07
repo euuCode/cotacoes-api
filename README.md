@@ -29,5 +29,5 @@ Tudo isso com uma interface gráfica simples e funcional feita com **Tkinter** �
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+
 cd seu-repo
