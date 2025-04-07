@@ -23,11 +23,3 @@ Tudo isso com uma interface gráfica simples e funcional feita com **Tkinter** �
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) – pra criar a GUI  
 - SQLite3 – pra salvar os dados localmente
 
----
-
-## 🛠️ Como rodar
-
-1. Clone este repositório:
-```bash
-
-cd seu-repo
